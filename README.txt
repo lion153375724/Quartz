@@ -1,4 +1,4 @@
-1、两个都是Quartz非常好的demo
+工1、两个都是Quartz非常好的demo
 2、quartz-spring-demo-master.zip没有做集群化处理，也就是任务存储在 ram里 jobstore
 	spring-quartz-cluster-sample-master.zip,做了集群化处理,任务存储在数据库里 jobstore
 
